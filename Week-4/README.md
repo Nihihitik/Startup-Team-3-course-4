@@ -10,6 +10,6 @@
 - Недашковская Екатерина - Маркетолог
 - Денисова Юлия - Дизайнер
 
-[преза мафия (шрифты).pptx](https://github.com/user-attachments/files/32859085/default.pptx)
+[Презентация.pptx](https://github.com/user-attachments/files/32859085/default.pptx)
 
 > Для полной картины презентации скачать шрифт: https://fonts-online.ru/fonts/square-721-tl-bold-extended
